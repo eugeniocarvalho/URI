@@ -1,4 +1,4 @@
 # URI
-Questões do URI
+Algumas questões do URI
 
-site do uri: [https://www.urionlinejudge.com.br/]
+Site do uri: https://www.urionlinejudge.com.br/
